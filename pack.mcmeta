@@ -1,0 +1,10 @@
+{
+    "pack": {
+        "pack_format": 71,
+        "supported_formats": {
+            "min_inclusive": 18,
+            "max_inclusive": 74
+        },
+        "description": "\u00A7eTHE resource pack for the \u00A76\u00A7lQwagMC \u00A7r\u00A7eMinecraft server!"
+    }
+}
